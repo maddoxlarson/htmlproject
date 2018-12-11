@@ -1,0 +1,37 @@
+.navigation {
+  background-color: rgb(100, 149, 237);
+  position: relative;
+}
+
+
+.navigation td {
+  text-decoration: none;
+  color: blue;
+}
+
+body {
+  background-color: #87CEEB;
+  font-family: 'Slabo 27px', serif;
+  box-sizing: border-box;
+  border: 9px double #1C6EA4;
+  border-radius: 4px;
+  padding: 10px 20px 10px 20px;
+  text-align: justify;
+}
+
+.contact li {
+  margin-left: 0;
+}
+
+.address p {
+  text-indent: 40;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.email p {
+  text-indent: 40;
+}

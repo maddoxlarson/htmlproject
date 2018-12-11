@@ -1,0 +1,36 @@
+.navigation {
+  background-color: rgb(100, 149, 237);
+  position: relative;
+}
+
+body {
+  background-color: #87CEEB;
+  font-family: 'Slabo 27px', serif;
+  box-sizing: border-box;
+  border: 9px double #1C6EA4;
+  border-radius: 4px;
+  padding: 10px 20px 10px 20px;
+  text-align: justify;
+}
+
+.navigation td {
+  text-decoration: none;
+  color: blue;
+}
+
+.title h1 {
+  font-family: cursive;
+}
+
+.orange h4 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.orange p {
+  font-size: 15px;
+}
+
+.blue h4 {
+  text-align: center;
+}
